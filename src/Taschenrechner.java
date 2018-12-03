@@ -3,7 +3,7 @@ public class Taschenrechner
 
     public static int addierenI(int a, int b)
     {
-        return a + b;
+         return a + b;
     }
 
     public static int subtrahierenI(int a, int b)

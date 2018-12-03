@@ -37,7 +37,7 @@ public class Aufgabe2
             System.out.println("Geben Sie einen längeren Wert ein");
         } else
         {
-            String length1 = a.substring(2);
+            String length1 = a.substring(length/2); // (2) wäre ab den 3Buchstaben
         System.out.println(length1);
         }
 
